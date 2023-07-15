@@ -1,7 +1,6 @@
 # AndroMalDac
 Android Malware Detection Framework Tool
 _________________________________________________
-```
 
 In this example, the code scans a directory for APK files (Android application packages) and performs static analysis on each APK file. It calculates the SHA256 hash of each APK and checks if it has a known malware signature. If the signature matches the Android Debug Certificate, it considers the APK as potentially malicious.
 
